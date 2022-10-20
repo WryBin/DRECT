@@ -23,6 +23,7 @@ pip3 install -r requirements.txt
 #### Test
 
 - Test.ipynb 
+(Using MATLAB to plot the last result)
 
 #### Train
 
