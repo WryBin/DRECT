@@ -84,15 +84,10 @@ def load_dataloader_exist(batch_size):
 
     print("Begin to generate simulation signals")
 
-    # train_input = np.load("./Dataset/train_input.npy")
-    # train_label = np.load("./Dataset/train_label.npy")
-    # val_input = np.load("./Dataset/val_input.npy")
-    # val_label = np.load("./Dataset/val_label.npy")
-
-    train_input = np.load("/mnt/DATA1/chenbo/code/DRILT_new/Dataset/train_input.npy")
-    train_label = np.load("/mnt/DATA1/chenbo/code/DRILT_new/Dataset/train_label.npy")
-    val_input = np.load("/mnt/DATA1/chenbo/code/DRILT_new/Dataset/val_input.npy")
-    val_label = np.load("/mnt/DATA1/chenbo/code/DRILT_new/Dataset/val_label.npy")
+    train_input = np.load("./Dataset/train_input.npy")
+    train_label = np.load("./Dataset/train_label.npy")
+    val_input = np.load("./Dataset/val_input.npy")
+    val_label = np.load("./Dataset/val_label.npy")
 
     train_input = torch.from_numpy(train_input).float()
     val_input = torch.from_numpy(val_input).float()
