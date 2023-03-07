@@ -38,8 +38,8 @@ python3 main.py --Type DOSY
 python3 main.py --Type VD
 ```
 
-## Colab
-You can reproduce the results of this paper on [Google Colab](https://colab.research.google.com/drive/1szTr7tW67bOYC0qiuBv33zr5ztD0pOfh?usp=sharing).
+## Pre-trained models
+Something wrong with git-lfs, you can get the pre-trained models on [Google Drive](https://drive.google.com/drive/folders/1B-OZLdKW9k4eDrqzUU9UySQUqVvSripd) instead.
 
 ## Parameters
 The parameters can be configured in config.py. The details about the parameters are described below.
