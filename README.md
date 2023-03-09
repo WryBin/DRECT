@@ -23,7 +23,7 @@ pip3 install -r requirements.txt
 #### Test
 
 - Test.ipynb 
-(Using MATLAB to plot the last result)
+(Using MATLAB to plot the last result，the display code for the comparative results of the paper can be found at "DRILT/MATLAB/Result/Results_Graph_Paper.mlx". To facilitate user convenience and verification, an example of how to draw your results graph is available at "DRILT/MATLAB/Result/Results_Graph.m".It is worth noting that you can achieve optimal display results by adjusting the contour_level parameter or by adjusting the parameters in preprocessing for better model output)
 
 #### Train
 
