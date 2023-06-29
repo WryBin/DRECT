@@ -16,6 +16,6 @@ pyversion [your Python interpreter path]
 for example:
 
 ```matlab
-pyversion C:\Users\20440\miniconda3\envs\DRILT\python.exe   [windows]
+pyversion C:\Users\20440\miniconda3\envs\DRECT\python.exe   [windows]
 ```
 
