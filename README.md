@@ -1,5 +1,5 @@
 # Fast and High-Resolution Reconstruction for Laplace NMR based on Deep Learning
-This is the origin Pytorch implementation of AcDpILT in the following paper: Fast and High-Resolution Reconstruction for Laplace NMR based on Deep Learning. 
+This is the origin Pytorch implementation of DRECT in the following paper: Fast and High-Resolution Reconstruction for Laplace NMR based on Deep Learning. 
 
 ![image-20221019130652846](https://raw.githubusercontent.com/WryBin/Images/main/image-20221019130652846.png)
 
